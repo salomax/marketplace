@@ -1,4 +1,6 @@
 # [openMarketplace](https://salomax-marketplace.appspot.com) 
+
+[![Join the chat at https://gitter.im/salomax/openMarketplace](https://badges.gitter.im/salomax/openMarketplace.svg)](https://gitter.im/salomax/openMarketplace?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 <sup>open source light ERP for e-commerces</sup>
 
 ![Build](https://travis-ci.org/salomax/openMarketplace.svg)
